@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
-#calc with a classic gui--> performs basic arithmatic operations with exceptional handling(for bad user input)
 
 window = tk.Tk()
 window.title("Simple GUI Calc")
